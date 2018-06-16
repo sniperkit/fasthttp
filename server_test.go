@@ -14,7 +14,7 @@ import (
 	"testing"
 	"time"
 
-	"github.com/valyala/fasthttp/fasthttputil"
+	"github.com/sniperkit/fasthttp/fasthttputil"
 )
 
 func TestRequestCtxString(t *testing.T) {
